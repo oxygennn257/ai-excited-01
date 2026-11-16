@@ -1,0 +1,1 @@
+{"description":"Make the AI judge excited — one heroic penguin image, written to /output/entry.png","name":"ai-excited-01-entry","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
